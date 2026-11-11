@@ -62,6 +62,7 @@
 | [Autonomous Agents](https://github.com/Significant-Gravitas/Auto-GPT) | 168k | Python | GPT-4 powered autonomous agent | 2024 |
 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | 22k | Python | Task-driven autonomous agent | 2023 |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 28k | Python | Multi-agent meta programming framework | 2024 |
+| [agent-qa](https://vostride.com) ([source](https://github.com/vostride/agent-qa)) | 852 | TypeScript | Persistent memidex facts/procedures, validated run lessons and feedback-driven correction for web/Android/iOS QA; FSL-1.1-ALv2 | 2026-11-10 |
 
 ### Multi-Agent Orchestration
 | Framework | Stars | Language | Key Innovation | Last Update |
